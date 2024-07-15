@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,figma,react,mongodb,nodejs)](https://skillicons.dev)
 
 ![Talha Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaAbbas-code&show_icons=true&theme=dark)
 
