@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Talha Abbas</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently learning React.js
+- 💬 Ask me anything about React.js 
 - 📫 How to reach me:talhaabbas058@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+
   
 ### Connect with me:
 <div id="badges">
